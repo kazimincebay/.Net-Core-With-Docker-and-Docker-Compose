@@ -1,0 +1,14 @@
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\bin\Debug\net8.0\UdemyConsoleDocker.exe
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\bin\Debug\net8.0\UdemyConsoleDocker.deps.json
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\bin\Debug\net8.0\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\bin\Debug\net8.0\UdemyConsoleDocker.dll
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\bin\Debug\net8.0\UdemyConsoleDocker.pdb
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.AssemblyInfoInputs.cache
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.AssemblyInfo.cs
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.csproj.CoreCompileInputs.cache
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.dll
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\refint\UdemyConsoleDocker.dll
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.pdb
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\UdemyConsoleDocker.genruntimeconfig.cache
+C:\Users\kazim\OneDrive\Belgeler\GitHub\.Net-Core-With-Docker-and-Docker-Compose\UdemyDocker\UdemyConsoleDocker\obj\Debug\net8.0\ref\UdemyConsoleDocker.dll
